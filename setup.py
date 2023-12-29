@@ -11,6 +11,6 @@ setup(
     version='1.0',
     description='Ricardo Gameiro - Final Project for CS50',
     options={'build_exe':{'includes': ['tkinter']}},
-    executables=[Executable('home.py', base=base)
+    executables=[Executable('calcuterm.py', base=base)
     ],
 )
